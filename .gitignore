@@ -1,1 +1,4 @@
 python
+*.pyc
+.project
+.pydevproject
